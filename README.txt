@@ -1,0 +1,1 @@
+This repository serves as a demonstration are of initializing a git repository and pushing from it to GitHub 
